@@ -20,3 +20,6 @@ endIf\
 loops: loop statement\
 body\
 endLoop
+
+## Variable type
+Integer
